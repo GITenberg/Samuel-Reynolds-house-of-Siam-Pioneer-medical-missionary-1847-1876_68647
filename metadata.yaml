@@ -1,11 +1,16 @@
 _repo: Samuel-Reynolds-house-of-Siam-Pioneer-medical-missionary-1847-1876_68647
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68647-h/images/cover.jpg
 creator:
   author:
     agent_name: Feltus, George Haws
     gutenberg_agent_id: '54885'
     url: http://www.gutenberg.org/2009/agents/54885
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68647#Samuel-Reynolds-house-of-Siam-Pioneer-medical-missionary-1847-1876
 gutenberg_issued: '2022-07-30'
 identifiers:
   gutenberg: '68647'
